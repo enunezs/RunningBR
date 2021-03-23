@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-01-27T19:21:11Z</time>
+ </metadata>
+ <trk>
+  <name>6k with weights</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="40.4690830" lon="-3.6851590">
+    <ele>744.9</ele>
+    <time>2020-01-27T19:21:11Z</time>
+   </trkpt>
+   <trkpt lat="40.4691200" lon="-3.6853530">
+    <ele>746.8</ele>
+    <time>2020-01-27T19:21:25Z</time>
+   </trkpt>
+   <trkpt lat="40.4691920" lon="-3.6854270">
+    <ele>747.3</ele>
+    <time>2020-01-27T19:21:32Z</time>
+   </trkpt>
+   <trkpt lat="40.4691960" lon="-3.6854920">
+    <ele>747.3</ele>
+    <time>2020-01-27T19:21:56Z</time>
+   </trkpt>
+   <trkpt lat="40.4692420" lon="-3.6857030">
+    <ele>747.3</ele>
+    <time>2020-01-27T19:22:03Z</time>
+   </trkpt>
+   <trkpt lat="40.4692860" lon="-3.6861280">
+    <ele>746.7</ele>
+    <time>2020-01-27T19:22:09Z</time>
+   </trkpt>
+   <trkpt lat="40.4691730" lon="-3.6864790">
+    <ele>746.1</ele>
+    <time>2020-01-27T19:22:16Z</time>
+   </trkpt>
+   <trkpt lat="40.4690500" lon="-3.6866650">
+    <ele>745.9</ele>
+    <time>2020-01-27T19:22:24Z</time>
+   </trkpt>
+   <trkpt lat="40.4688720" lon="-3.6867740">
+    <ele>746.2</ele>
+    <time>2020-01-27T19:22:31Z</time>
+   </trkpt>
+   <trkpt lat="40.4687080" lon="-3.6869130">
+    <ele>746.3</ele>
+    <time>2020-01-27T19:22:37Z</time>
+   </trkpt>
+   <trkpt lat="40.4685590" lon="-3.6869400">
+    <ele>744.6</ele>
+    <time>2020-01-27T19:22:44Z</time>
+   </trkpt>
+   <trkpt lat="40.4685270" lon="-3.6869210">
+    <ele>744.4</ele>
+    <time>2020-01-27T19:24:45Z</time>
+   </trkpt>
+   <trkpt lat="40.4685000" lon="-3.6869020">
+    <ele>744.2</ele>
+    <time>2020-01-27T19:24:48Z</time>
+   </trkpt>
+   <trkpt lat="40.4684730" lon="-3.6869050">
+    <ele>744.2</ele>
+    <time>2020-01-27T19:25:03Z</time>
+   </trkpt>
+   <trkpt lat="40.4684710" lon="-3.6868560">
+    <ele>744.2</ele>
+    <time>2020-01-27T19:25:09Z</time>
+   </trkpt>
+   <trkpt lat="40.4691880" lon="-3.6850600">
+    <ele>744.0</ele>
+    <time>2020-01-27T19:56:51Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
